@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+regex
+fasttext
+scikit-learn
+xgboost
