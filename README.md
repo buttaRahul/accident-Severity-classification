@@ -19,6 +19,8 @@ using
 
 `pip install -r requirements.txt` command
 
+for vector embeddings model you can download the cc.en.300.bin model from [fasttext_cc.en.300.bin_model](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz)
+
 ## Installation
 
 ### Clone the Repository
